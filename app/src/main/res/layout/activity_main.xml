@@ -18,8 +18,8 @@
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="0dp"
-        android:orientation="vertical"
-        android:layout_weight="1">
+        android:layout_weight="1"
+        android:orientation="vertical">
 
         <TextView
             android:layout_width="match_parent"
@@ -36,22 +36,24 @@
             android:layout_marginRight="8dp"
             android:layout_marginBottom="8dp"
             android:text="The Faculty of Electronic Engineering was formally designated and established in the city of Menouf as the Higher Institute of Electronics under supervision of the Ministry of Higher Education, in 1964.It is one of inveterate Menoufia University's faculties. It was established to be the lighthouse of Electronics in the Middle East. Being distinguished by this field made it the only exporter of engineers in the following subfields of electronics:
-      -Automatic Control Engineering.
-      -Electronics and Electrical Communications Engineering.
-      -Computer Science and Engineering."
+-Automatic Control Engineering.
+-Electronics and Electrical Communications Engineering.
+-Computer Science and Engineering."
             android:textAppearance="?android:textAppearanceSmall"/>
 
     </LinearLayout>
 
     <LinearLayout
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"
+        android:layout_height="0dp"
+        android:layout_weight="1"
         android:orientation="vertical">
 
         <LinearLayout
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:orientation="horizontal">
+            android:orientation="horizontal"
+            android:layout_margin="4dp">
 
             <ImageView
                 android:layout_width="20dp"
@@ -69,7 +71,8 @@
         <LinearLayout
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:orientation="horizontal">
+            android:orientation="horizontal"
+            android:layout_margin="4dp">
 
             <ImageView
                 android:layout_width="20dp"
@@ -87,7 +90,8 @@
         <LinearLayout
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:orientation="horizontal">
+            android:orientation="horizontal"
+            android:layout_margin="4dp">
 
             <ImageView
                 android:layout_width="20dp"
@@ -105,7 +109,8 @@
         <LinearLayout
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:orientation="horizontal">
+            android:orientation="horizontal"
+            android:layout_margin="4dp">
 
             <ImageView
                 android:layout_width="20dp"
