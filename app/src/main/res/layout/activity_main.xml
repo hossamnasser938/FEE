@@ -84,4 +84,12 @@
         </LinearLayout>
 
     </LinearLayout>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:textAppearanceLarge"
+        android:textStyle="bold"
+        android:text="Faculty Of Electronic Engineering"/>
+
 </RelativeLayout>
