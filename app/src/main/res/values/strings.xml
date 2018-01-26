@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FEE</string>
+    <string name="Faculty_Description">The Faculty of Electronic Engineering was formally designated and established as the Higher Institute of Electronics under supervision of the Ministry of Higher Education, in 1964. It is one of inveterate Menoufia University\'s faculties. Being distinguished by this field made it the only exporter of engineers in the following subfields of electronics: \n-Automatic Control Engineering. \n-Electronics and Electrical Communications Engineering. \n-Computer Science and Engineering.</string>
+    <string name="Faculy_location">Menoof city, Menofia governorate, Egypt</string>
+    <string name="Faculty_name">Faculty Of Electronic Engineering</string>
+    <string name="Faculty_website">http://www.menofia.edu.eg/fee/Home/en</string>
+</resources>

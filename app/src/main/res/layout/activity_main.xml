@@ -37,10 +37,7 @@
                 android:layout_marginLeft="8dp"
                 android:layout_marginRight="8dp"
                 android:layout_marginBottom="8dp"
-                android:text="The Faculty of Electronic Engineering was formally designated and established as the Higher Institute of Electronics under supervision of the Ministry of Higher Education, in 1964. It is one of inveterate Menoufia University's faculties. Being distinguished by this field made it the only exporter of engineers in the following subfields of electronics:
--Automatic Control Engineering.
--Electronics and Electrical Communications Engineering.
--Computer Science and Engineering."
+                android:text="@string/Faculty_Description"
                 android:textAppearance="?android:textAppearanceSmall"/>
 
             <LinearLayout
@@ -58,7 +55,7 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:textAppearance="?android:textAppearanceSmall"
-                    android:text="http://www.menofia.edu.eg/fee/Home/en"/>
+                    android:text="@string/Faculty_website"/>
 
             </LinearLayout>
 
@@ -77,7 +74,7 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:textAppearance="?android:textAppearanceSmall"
-                    android:text="Menoof city, Menofia governorate, Egypt"/>
+                    android:text="@string/Faculy_location"/>
 
             </LinearLayout>
 
@@ -90,6 +87,6 @@
         android:layout_height="wrap_content"
         android:textAppearance="?android:textAppearanceLarge"
         android:textStyle="bold"
-        android:text="Faculty Of Electronic Engineering"/>
+        android:text="@string/Faculty_name"/>
 
 </RelativeLayout>
